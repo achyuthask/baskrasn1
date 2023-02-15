@@ -1,23 +1,19 @@
-import logo from './logo.svg';
-import './App.css';
+import './App.css'
 
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+      <h1>ABOUT US</h1>
+
+      <p>The About Us page of your website is an essential source of information for all who want to know more about your business.
+
+About Us pages are where you showcase your history, what is unique about your work, your company’s values, and who you serve.
+
+The design, written content, and visual or video elements together tell an important story about who you are and why you do it.
+
+How can you make the most of this integral part of your marketing strategy?
+
+In this article, you’ll learn what makes an exceptional About Us page and find 25 about us page examples of the best ones out there to inspire your own About Us page design and content.</p>
     </div>
   );
 }
